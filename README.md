@@ -5,7 +5,7 @@ csv to ios localization‘s xctrings file
 python localized_tool.py path/to/xxx.csv path/to/Localizable.xcstrings
 ```
 
-
+```
 ╰─➤  python localized_tool.py -h
 usage: localized_tool.py [-h] N N
 
@@ -17,3 +17,4 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
+```
