@@ -2,7 +2,7 @@
 csv to ios localization‘s xctrings file
 
 ```
-python localized_tool.py  path/to/xxx.csv path/to/Localizable.xcstrings
+python localized_tool.py path/to/xxx.csv path/to/Localizable.xcstrings
 ```
 
 
